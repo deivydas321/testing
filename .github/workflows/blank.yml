@@ -16,4 +16,4 @@ jobs:
       with:
           version: '9.6.0'
           projectPath: '${{ github.workspace }}'
-          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/New Test Suite" -apiKey=48da091e-8dfd-4a52-a316-87a5516184dc --config -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/New Test Suite" -apiKey=75535d9b-0bbe-43d5-bfd5-fbaf2dfc7b22 --config -webui.autoUpdateDrivers=true'
